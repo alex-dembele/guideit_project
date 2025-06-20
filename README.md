@@ -23,11 +23,11 @@ Avant de commencer, assurez-vous d'avoir les outils suivants installés sur votr
 
 Suivez ces étapes pour configurer et lancer l'environnement de développement local.
 1. Clonez le repository
-   
-    ```
-    git clone https://github.com/alex-dembele/guideit_project.git
-    cd guideit_project
-    ```
+
+```
+git clone https://github.com/alex-dembele/guideit_project.git
+cd guideit_project
+```
 
 **Backend (Symfony & Docker)**
 Le backend est entièrement conteneurisé avec Docker pour simplifier l'installation.
