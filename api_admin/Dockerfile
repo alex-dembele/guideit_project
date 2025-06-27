@@ -1,5 +1,5 @@
 # On utilise l'image officielle de PHP
-FROM php:8.-fpm-alpine
+FROM php:8.3-fpm-alpine
 
 # On définit le répertoire de travail dans le conteneur
 WORKDIR /srv/app
