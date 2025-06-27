@@ -1,4 +1,4 @@
-FROM symfony/php:8.2-fpm-alpine
+FROM php:8.2-fpm-alpine
 
 # extensions PHP
 RUN docker-php-ext-install pdo_pgsql
